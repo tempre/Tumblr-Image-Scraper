@@ -1,6 +1,6 @@
 # Tumblr Image Scraper
 
-![](https://giphy.com/gifs/dwLSwHanNj1oRJ7POK)
+[[ https://giphy.com/gifs/dwLSwHanNj1oRJ7POK | height = 100px ]]
 
 ## About
 
