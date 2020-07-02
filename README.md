@@ -1,5 +1,7 @@
 # Tumblr Image Scraper
 
+![](https://giphy.com/gifs/dwLSwHanNj1oRJ7POK)
+
 ## About
 
 Tumblr Image Scraper is a program which allows you to grab images and their respective authors from your desired tumblr page / tag!
